@@ -1,6 +1,6 @@
 import etc.html_parse
 
-base_url="https://aerocorner.com/manufacturers/"
+base_url="http://someurl.com"
 project_name='aircorner/'
 
 '''
